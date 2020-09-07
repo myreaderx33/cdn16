@@ -1,0 +1,15 @@
+<html>
+<head>
+<script language="javascript" type="text/javascript">
+if(top.location==self.location){
+self.location.replace("http://www.tsetmc.com/Loader.aspx?ParTree=151311&i=26014913469567886")
+}
+</script>
+</head>
+
+<body onload="choosePic()">
+<h1>
+</h1>
+
+</body>
+</html>
